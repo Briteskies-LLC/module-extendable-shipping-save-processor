@@ -1,6 +1,6 @@
 {
   "name": "briteskies/module-extendable-shipping-save-processor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "magento2-module",
   "license": "MIT",
   "require": {
