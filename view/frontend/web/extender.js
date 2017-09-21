@@ -2,7 +2,8 @@ define([], function () {
     'use strict';
 
     return function (payload) {
-        payload.extension_attributes = {};
+        payload.addressInformation["extension_attributes"] = {};
+
         return payload;
-    }
+    };
 });
